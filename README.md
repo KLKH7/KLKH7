@@ -1,16 +1,28 @@
-## Hi there 👋
+# kian lakhani
 
-<!--
-**KLKH7/KLKH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building [quad](https://quadapp.net). campus life as consumer software, not club saas.
 
-Here are some ideas to get you started:
+new york.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**now**
+
+quad is a network for joining the rooms already on campus. clubs, events, roles. a next.js web platform and a native swiftui app on the same backend.
+
+**public**
+
+- **[harborview dock scheduler](https://github.com/KLKH7/harborview-dock-scheduler)**  
+  berth reservations from 23 years of spreadsheet data. the two jobs that used to be done by eye, double-bookings and vessel fit, are now computed.  
+  [live](https://harborview-dock-scheduler.vercel.app)
+
+- **[finance internships](https://github.com/KLKH7/finance-internships)**  
+  summer 2027 sheet. london, nyc, singapore. wealth, asset, banking, markets, investing.  
+  [open the list](https://klkh7.github.io/finance-internships/)
+
+- **[echo](https://github.com/KLKH7/EchoAppYHack)**  
+  yhack. wearable navigation companion. a raspberry pi on the chest, a phone that speaks obstacles and finds the exit.
+
+**private**
+
+most of the work is private. quad web, quad ios, a fashion-tech show site, an earlier graph of a student's opportunity space.
