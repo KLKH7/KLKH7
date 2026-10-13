@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="quad by the numbers">
+<style>
+:root{--fg:#231F20;--mute:#8a8a8a;--bg:#FFFFFF;--line:#E6E6E6}
+@media (prefers-color-scheme:dark){:root{--fg:#F2F2F2;--mute:#8b949e;--bg:#0d1117;--line:#30363d}}
+.bg{fill:var(--bg);stroke:var(--line)} .sep{stroke:var(--line)}
+.n{font:600 38px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;letter-spacing:-1.5px;fill:var(--fg)}
+.k{font:13px ui-monospace,SFMono-Regular,Menlo,monospace;fill:var(--mute)}
+.h{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:var(--mute);letter-spacing:1px}
+.c{animation:up .6s cubic-bezier(.2,.7,.2,1) backwards}
+@keyframes up{from{opacity:0;transform:translateY(8px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="899" height="209" rx="18"/>
+<text class="h" x="32" y="38">┌ QUAD, BY THE NUMBERS ┐</text>
+<g class="c" style="animation-delay:0.10s"><text class="n" x="32.0" y="98">2,500+</text><text class="k" x="34.0" y="120">students</text></g>
+<g class="c" style="animation-delay:0.22s"><text class="n" x="310.6666666666667" y="98">12</text><text class="k" x="312.6666666666667" y="120">universities</text></g>
+<g class="c" style="animation-delay:0.34s"><text class="n" x="589.3333333333334" y="98">3,972</text><text class="k" x="591.3333333333334" y="120">commits</text></g>
+<g class="c" style="animation-delay:0.46s"><text class="n" x="32.0" y="176">212</text><text class="k" x="34.0" y="198">api routes</text></g>
+<g class="c" style="animation-delay:0.58s"><text class="n" x="310.6666666666667" y="176">157k</text><text class="k" x="312.6666666666667" y="198">lines of typescript</text></g>
+<g class="c" style="animation-delay:0.70s"><text class="n" x="589.3333333333334" y="176">42k</text><text class="k" x="591.3333333333334" y="198">lines of swift</text></g>
+<line class="sep" x1="32" x2="868" y1="134" y2="134"/>
+</svg>
