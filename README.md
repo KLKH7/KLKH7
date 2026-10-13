@@ -21,12 +21,12 @@ the network for the rooms already on campus. every club, every event, every open
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
 flowchart LR
-  ig[club instagram] --> ex[extract] --> vlm[vision model] --> dd[dedupe + enrich] --> ev[(events)]
-  reg[(club registry)] --> lab[facet labels + embeddings] --> rec[recommender]
+  ig[club instagram] --> pipe[extract · vision · dedupe] --> ev[(events)]
+  reg[(club registry)] --> rec[facets + embeddings + rerank]
   ev --> api{{quad api}}
   rec --> api
-  api --> web[web · next.js]
-  api --> ios[ios · swiftui]
+  api --> web[web]
+  api --> ios[ios]
   api --> ask[ask quad]
 ```
 
