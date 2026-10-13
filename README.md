@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://quadapp.net"><img src="assets/hero.svg" width="100%" alt="kian lakhani, in ascii"></a>
+  <a href="https://joinquad.ai"><img src="assets/hero.svg" width="100%" alt="kian lakhani, in ascii"></a>
 </p>
 
 <p align="center">
-  <a href="https://quadapp.net"><img src="https://img.shields.io/badge/quadapp.net-231F20?style=for-the-badge" alt="quad"></a>
+  <a href="https://joinquad.ai"><img src="https://img.shields.io/badge/joinquad.ai-231F20?style=for-the-badge" alt="quad"></a>
   <a href="https://x.com/kian_lakhani"><img src="https://img.shields.io/badge/@kian__lakhani-231F20?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
   <a href="https://www.linkedin.com/in/kian-l-0125b5280/"><img src="https://img.shields.io/badge/linkedin-231F20?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </p>
@@ -12,7 +12,7 @@
 
 ## ┌ now ┐
 
-**[quad](https://quadapp.net)** · co-founder + cto
+**[quad](https://joinquad.ai)** · co-founder + cto
 
 the network for the rooms already on campus. every club, every event, every open role at your school, in one place, with an assistant that already knows you. bootstrapped to 2,500+ students across 12 universities, featured in the columbia daily spectator, and partnered with wall street oasis to bring its bootcamps and recruiting tools to quad students.
 
