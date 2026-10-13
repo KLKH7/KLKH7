@@ -88,4 +88,11 @@ hw      python  raspberry pi  computer vision
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KLKH7/KLKH7/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/KLKH7/KLKH7/output/snake.svg" width="100%" alt="contribution snake">
+</picture>
+
+<br>
+
 <p align="center"><sub>run to every opportunity.</sub></p>
