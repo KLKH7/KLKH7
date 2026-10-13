@@ -1,6 +1,6 @@
 # kian lakhani
 
-building [quad](https://quadapp.net). campus life as consumer software, not club saas.
+building [quad](https://quadapp.net). campus life as consumer software.
 
 new york.
 
