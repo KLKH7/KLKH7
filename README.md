@@ -15,14 +15,9 @@ quad is a network for joining the rooms already on campus. clubs, events, roles.
 - **[harborview dock scheduler](https://github.com/KLKH7/harborview-dock-scheduler)**  
   berth reservations from 23 years of spreadsheet data. the two jobs that used to be done by eye, double-bookings and vessel fit, are now computed.  
   [live](https://harborview-dock-scheduler.vercel.app)
-
-- **[finance internships](https://github.com/KLKH7/finance-internships)**  
-  summer 2027 sheet. london, nyc, singapore. wealth, asset, banking, markets, investing.  
-  [open the list](https://klkh7.github.io/finance-internships/)
-
 - **[echo](https://github.com/KLKH7/EchoAppYHack)**  
   yhack. wearable navigation companion. a raspberry pi on the chest, a phone that speaks obstacles and finds the exit.
 
 **private**
 
-most of the work is private. quad web, quad ios, a fashion-tech show site, an earlier graph of a student's opportunity space.
+most of the work is private. decla ai, quad web, quad ios, a fashion-tech show site, an earlier graph of a student's opportunity space.
