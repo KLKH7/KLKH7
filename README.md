@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://joinquad.ai"><img src="assets/hero.svg" width="100%" alt="kian lakhani, in ascii"></a>
+  <a href="https://joinquad.ai"><img src="assets/hero.svg" width="560" alt="whoami: kian lakhani, new york. co-founder + cto, quad."></a>
 </p>
 
 <p align="center">
@@ -38,6 +38,16 @@ flowchart LR
 - **recommendations.** exploration against personalization. facet labels and embedding retrieval, unioned and reranked once per student, prewarmed nightly. scored against what students actually followed a week later, not a judge's opinion.
 - **the registry.** thousands of clubs across launch campuses. labelled, deduped, cleaned. the data is the product.
 - **two clients, one kitchen.** swiftui and next.js on one postgres backend, rendering the same payloads down to the recommendation cards. shipped weekly.
+
+<br>
+
+**[the ninety labs](https://github.com/KLKH7/the-ninety-labs)** · microsoft × premier league hackathon
+
+ai that watches the match, logs every event, and describes it to every fan, including the ones who can't see it. football event data is still typed by hand, a few analysts per match, which is why it stops at the top flight.
+
+- **a football engine that writes its own answer key.** players decide, physics happens, a referee observes. every rule cites a law of the game or a published study, and every clip passes a ground-truth contract before anything trains on it.
+- **broadcast video from the same engine.** exact camera, boxes, visibility and keypoints per frame, with hard-case knobs (lighting, kit contrast, crowding, blur) so vision is tested where it fails.
+- **building now: agents that can't make up a number.** code computes every stat, agents only explain, and a fact-checking agent gates what reaches the screen. audio description for blind and low-vision fans is the point, not a feature.
 
 <br>
 
